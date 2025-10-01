@@ -1,4 +1,4 @@
-# ImpactViz 🌍📊
+# ImpactViz ♻️
 
 **ImpactViz** adalah dashboard analitik berbasis blockchain yang dirancang untuk mengukur dan memvisualisasikan **dampak ekonomi, sosial, dan lingkungan** dari transaksi di sektor pariwisata berkelanjutan.  
 
